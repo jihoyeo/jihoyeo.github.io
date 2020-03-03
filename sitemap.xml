@@ -173,7 +173,7 @@
   </url>
   
   <url>
-    <loc>/homepage/tags/deep-learning/</loc>
+    <loc>/homepage/tags/complex-network/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
   </url>
   
@@ -188,12 +188,17 @@
   </url>
   
   <url>
-    <loc>/homepage/research/internal-project/</loc>
+    <loc>/homepage/tags/human-mobility/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/homepage/research/</loc>
+    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/homepage/research/inter-city_travel_network/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
   </url>
   
